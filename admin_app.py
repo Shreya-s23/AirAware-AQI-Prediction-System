@@ -4,13 +4,13 @@ Run with: streamlit run admin_app.py --server.port 8502
 
 Folder structure:
   your_project/
-  ├── admin_app.py          ← this file
+  ├── admin_app.py          
   ├── user_app.py
   ├── utils.py
   ├── theme.py
   ├── charts.py
-  ├── users.json            (auto-created)
-  ├── aqi_xgboost_model.pkl (auto-created on first train)
+  ├── users.json            
+  ├── aqi_xgboost_model.pkl 
   ├── aqi_feature_columns.pkl
   └── aqi_model_metrics.json
 """
